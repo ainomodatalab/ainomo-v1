@@ -1,0 +1,13 @@
+{
+  "name": "ainomo-v1",
+  "dependencies": {
+    "ainomo_dao": {
+      "commit": "main",
+      "contracts_path": "contracts"
+    },
+    "ainomo_dao_proposals": {
+      "commit": "main",
+      "contracts_path": "contracts"
+    }
+  }
+}
