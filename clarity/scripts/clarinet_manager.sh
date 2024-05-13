@@ -1,4 +1,4 @@
-77777777#!/usr/bin/env bash
+777777777#!/usr/bin/env bash
 set -euo pipefail
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
