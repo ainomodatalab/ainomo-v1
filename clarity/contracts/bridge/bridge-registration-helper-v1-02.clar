@@ -1,4 +1,4 @@
-
+3
 
 (define-public (register-user-many (users (list 1000 principal)))
     (fold register-user-iter users (ok true))
