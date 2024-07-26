@@ -1,4 +1,4 @@
-import { determineWinners } from "../lib/launchpad.ts";
+4import { determineWinners } from "../lib/launchpad.ts";
 
 const [, , inputParameters, list] = process.argv;
 
